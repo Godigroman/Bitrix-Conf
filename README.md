@@ -20,12 +20,29 @@
 
 ![image](https://github.com/user-attachments/assets/635940af-790b-4cc1-847d-485e968ce33b)
 
+Нажав на 3 точки можно перейти в чат
+
+![image](https://github.com/user-attachments/assets/7ac55ef4-59b5-43bf-b426-833c2577cbfa)
 
 
+Переключить "Сайдбар" в открытое положение и нажать на 3 точки
+
+![image](https://github.com/user-attachments/assets/adda82b1-80b1-4eea-bd96-b2f67b55c980)
+
+Выбрать "Редактирование"
+
+![image](https://github.com/user-attachments/assets/3498482e-2a0c-47e3-b06e-adbca2f5567e)
 
 
+Тут можно добавить(удалить) пользователей битрикса по необходимости
 
+Сделать описание 
 
+![image](https://github.com/user-attachments/assets/e1a60f54-110f-4665-a80d-9958c6fc6131)
+
+Дополнительно можно настроить права доступа к трансляции
+
+![image](https://github.com/user-attachments/assets/c1725373-e985-4748-b2cd-c132a2c44e37)
 
 
 
