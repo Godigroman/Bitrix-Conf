@@ -2,11 +2,13 @@
 
 - В левом меню нужно выбрать "Сотрудники"
 
-![image](https://github.com/user-attachments/assets/c104eea4-13ec-4be5-8e96-4f481da73fbb)
+<img width="1839" height="1037" alt="image" src="https://github.com/user-attachments/assets/b95a7d56-a0df-4efc-8ef6-14b1a288c2a7" />
+
 
 - Выбрать в верхнем меню "Видеоконференции"
 
-![image](https://github.com/user-attachments/assets/ad81d0a9-f4d2-4c99-8232-3e526b8a1ac1)
+<img width="1842" height="1041" alt="image" src="https://github.com/user-attachments/assets/0c0da595-85f7-41e3-ad44-c15908b94f13" />
+
 
 
 - Нажимаем "Создать конференцию"
@@ -18,7 +20,8 @@
 2. Можно добавить сотрудников с битрикса напрямую(им прийдет уведомление как только вы создадите конференцию)
 3. Ссылка для внешних сотрудников(не пользователей битрикс)
 
-![image](https://github.com/user-attachments/assets/635940af-790b-4cc1-847d-485e968ce33b)
+<img width="1835" height="1041" alt="image" src="https://github.com/user-attachments/assets/8421012d-7fcd-457b-aca1-9a1c28b447a7" />
+
 
 - Нажав на 3 точки можно перейти в чат
 
